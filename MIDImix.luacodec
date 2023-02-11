@@ -1,0 +1,14 @@
+version={1,0,1}
+
+function remote_supported_control_surfaces()
+	local surfaces =	
+	{
+			{ manufacturer="Akai", model="MIDI Mix",
+				source="midimix.lua", picture="midimix.png", 
+				in_ports={{description="In Port"}}, out_ports={{description="Out Port", optional=true}},
+				has_keyboard=false,
+				setup_info_text="" ,
+			}
+	}
+	return surfaces
+end

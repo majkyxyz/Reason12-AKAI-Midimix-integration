@@ -1,0 +1,119 @@
+Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Akai
+Control Surface Model	MIDI Mix
+Map Version	1.4.6
+
+Scope	Propellerheads	Combinator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1C		Rotary 1
+Map	Knob 2C		Rotary 2
+Map	Knob 3C		Rotary 3
+Map	Knob 4C		Rotary 4
+Map	Mute Button 1		Button 1
+Map	Mute Button 2		Button 2
+Map	Mute Button 3		Button 3
+Map	Mute Button 4		Button 4
+
+Scope	Propellerheads	Reason Document
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Bank Left Button		Target Previous Track
+Map	Bank Right Button		Target Next Track
+//Map	Solo Button		Tap Tempo
+
+Scope	Propellerheads	Mixer 14:2
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Master Fader		Master Level
+Map	Fader 1		Channel 1 Level
+Map	Fader 2		Channel 2 Level
+Map	Fader 3		Channel 3 Level
+Map	Fader 4		Channel 4 Level
+Map	Fader 5		Channel 5 Level
+Map	Fader 6		Channel 6 Level
+Map	Fader 7		Channel 7 Level
+Map	Fader 8		Channel 8 Level
+
+Map	Knob 1A		Channel 1 Aux 1 Send
+Map	Knob 1B		Channel 1 Aux 2 Send
+Map	Knob 1C		Channel 1 Aux 3 Send
+
+Map	Knob 2A		Channel 2 Aux 1 Send
+Map	Knob 2B		Channel 2 Aux 2 Send
+Map	Knob 2C		Channel 2 Aux 3 Send
+
+Map	Knob 3A		Channel 3 Aux 1 Send
+Map	Knob 3B		Channel 3 Aux 2 Send
+Map	Knob 3C		Channel 3 Aux 3 Send
+
+Map	Knob 4A		Channel 4 Aux 1 Send
+Map	Knob 4B		Channel 4 Aux 2 Send
+Map	Knob 4C		Channel 4 Aux 3 Send
+
+Map	Knob 5A		Channel 5 Aux 1 Send
+Map	Knob 5B		Channel 5 Aux 2 Send
+Map	Knob 5C		Channel 5 Aux 3 Send
+
+Map	Knob 6A		Channel 6 Aux 1 Send
+Map	Knob 6B		Channel 6 Aux 2 Send
+Map	Knob 6C		Channel 6 Aux 3 Send
+
+Map	Knob 7A		Channel 7 Aux 1 Send
+Map	Knob 7B		Channel 7 Aux 2 Send
+Map	Knob 7C		Channel 7 Aux 3 Send
+
+Map	Knob 8A		Channel 8 Aux 1 Send
+Map	Knob 8B		Channel 8 Aux 2 Send
+Map	Knob 8C		Channel 8 Aux 3 Send
+
+Map	Mute Button 1		Channel 1 Mute
+Map	Mute Button 2		Channel 2 Mute
+Map	Mute Button 3		Channel 3 Mute
+Map	Mute Button 4		Channel 4 Mute
+Map	Mute Button 5		Channel 5 Mute
+Map	Mute Button 6		Channel 6 Mute
+Map	Mute Button 7		Channel 7 Mute
+Map	Mute Button 8		Channel 8 Mute
+
+Map	Solo Button 1		Channel 1 Solo
+Map	Solo Button 2		Channel 2 Solo
+Map	Solo Button 3		Channel 3 Solo
+Map	Solo Button 4		Channel 4 Solo
+Map	Solo Button 5		Channel 5 Solo
+Map	Solo Button 6		Channel 6 Solo
+Map	Solo Button 7		Channel 7 Solo
+Map	Solo Button 8		Channel 8 Solo
+
+Scope	Propellerheads	Line Mixer 6:2
+Map	Fader 1		Channel 1 Level
+Map	Fader 2		Channel 2 Level
+Map	Fader 3		Channel 3 Level
+Map	Fader 4		Channel 4 Level
+Map	Fader 5		Channel 5 Level
+Map	Fader 6		Channel 6 Level
+Map	Mute Button 1		Channel 1 Mute
+Map	Mute Button 2		Channel 2 Mute
+Map	Mute Button 3		Channel 3 Mute
+Map	Mute Button 4		Channel 4 Mute
+Map	Mute Button 5		Channel 5 Mute
+Map	Mute Button 6		Channel 6 Mute
+Map	Solo Button 1		Channel 1 Solo
+Map	Solo Button 2		Channel 2 Solo
+Map	Solo Button 3		Channel 3 Solo
+Map	Solo Button 4		Channel 4 Solo
+Map	Solo Button 5		Channel 5 Solo
+Map	Solo Button 6		Channel 6 Solo
+Map	Knob 1A		Channel 1 Aux Send
+Map	Knob 2A		Channel 2 Aux Send
+Map	Knob 3A		Channel 3 Aux Send
+Map	Knob 4A		Channel 4 Aux Send
+Map	Knob 5A		Channel 5 Aux Send
+Map	Knob 6A		Channel 6 Aux Send
+Map	Knob 8A		Aux Return Level
+
+Map	Knob 1B		Channel 1 Pan
+Map	Knob 2B		Channel 2 Pan
+Map	Knob 3B		Channel 3 Pan
+Map	Knob 4B		Channel 4 Pan
+Map	Knob 5B		Channel 5 Pan
+Map	Knob 6B		Channel 6 Pan
+Map	Master Fader		Master Level
