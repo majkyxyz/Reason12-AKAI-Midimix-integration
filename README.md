@@ -1,2 +1,2 @@
 # Reason12-AKAI-Midmix-integration
-Repository containing necessary files for Reason12 and AKAI Midimix controller integration.
+Repository containing necessary files for Reason 12 and AKAI Midimix controller integration. Copy files MIDImix.lua, MIDImix.luacodec, MIDImix.png to C:\Program Files\Propellerhead\Reason 12\Remote\DefaultCodecs. Copy file MIDImix.remotemap to C:\Program Files\Propellerhead\Reason 12\Remote\DefaultMaps\Akai. Regarding Mac OS, above-mentioned directories should be located in HD/Library/Application Support/Propellerhead Software/Remote.
