@@ -5,4 +5,4 @@ I have improved coding (MIDImix.lua) and mapping (MIDImix.remotemap) files for R
 
 I think that it is worth to share these files for all people that have Reason and AKAI Midmix but they can't use the mixer with its full functionality.
 
-Contact with me: majkyxyz@gmail.com
+Contact with me: majkyxyz@gmail.com (Michał P.)
