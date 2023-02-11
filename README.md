@@ -3,6 +3,6 @@ Repository containing necessary files for Reason 12 and AKAI Midimix controller 
 
 I have improved coding (MIDImix.lua) and mapping (MIDImix.remotemap) files for Reason. Files were downloaded from Luke's repository https://github.com/lukelengl/AkaiMIDIMixPropellerheadReasonRemote. I have implemented support for SOLO button. If you press/hold the SOLO button and press a one of MUTE buttons coressponding to one of mixer channels, the rest of channels become inactive/muted and leds shine for them in mute state - the MUTE led for unmuted/solo channel doesn't shine as it shouldn't shine. Next, the SOLO button should be pressed and MUTE button for unmuted/solo channel to unmute all muted channels. I think that this is correct mixer's behavior now. I did two mapping examples for mixers 14:2, 6:2 to demonstrate that everything works correctly. In Reason, you should use 'Lock AKAI Midimix to this device' to work with mixers mentioned above. Also, you can map all faders, knobs, buttons to different devices with the use 'Edit Remote Override Mapping' option.
 
-I think that it is worth to share these files for all people that have Reason and AKAI Midmix so that they could use the mixer with its full functionality.
+I think that it is worth to share these files for all people who have Reason and AKAI Midmix so that they could use the mixer with its full functionality.
 
 Contact with me: majkyxyz@gmail.com (Michał P.)
