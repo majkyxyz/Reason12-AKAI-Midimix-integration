@@ -17,4 +17,4 @@ Copy files __MIDImix.lua, MIDImix.luacodec, MIDImix.png__ to following directory
 Please share these files for all people who have Reason and AKAI Midmix so that they could use cheapest DAW mixer (with its full functionality) in Reason DAW.
 
 ## Contact
-majkyxyz@gmail.com (Michał Petaś)
+Michał Petaś (majkyxyz@gmail.com)
