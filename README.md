@@ -13,6 +13,7 @@ Copy files MIDImix.lua, MIDImix.luacodec, MIDImix.png to following directory [Re
 + Bank Left button will target the previous track in the sequencer.
 + Bank Right button will target the next track in the sequencer.
 
+## License
 Please share these files for all people who have Reason and AKAI Midmix so that they could use cheapest DAW mixer with its full functionality.
 
 ## Contact
