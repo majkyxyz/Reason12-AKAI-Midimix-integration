@@ -14,7 +14,7 @@ Copy files MIDImix.lua, MIDImix.luacodec, MIDImix.png to following directory [Re
 + Bank Right button will target the next track in the sequencer.
 
 ## License
-Please share these files for all people who have Reason and AKAI Midmix so that they could use cheapest DAW mixer with its full functionality.
+Please share these files for all people who have Reason and AKAI Midmix so that they could use cheapest DAW mixer (with its full functionality) in Reason DAW.
 
 ## Contact
 majkyxyz@gmail.com (Michał Petaś)
